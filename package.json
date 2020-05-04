@@ -1,0 +1,30 @@
+{
+  "name": "cerin",
+  "version": "1.0.0",
+  "description": "A simple erin node written in JavaScript.",
+  "main": "src/index.js",
+  "keywords": [
+    "anonymity",
+    "darknet",
+    "erin",
+    "file-sharing",
+    "p2p",
+    "peer-to-peer"
+  ],
+  "license": "GPL-3.0-or-later",
+  "scripts": {
+    "start": "node scripts/start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catpixy/cerin.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/catpixy/cerin/issues"
+  },
+  "homepage": "https://github.com/catpixy/cerin#readme",
+  "dependencies": {
+    "node-rsa": "^1.0.8"
+  }
+}
