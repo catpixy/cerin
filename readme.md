@@ -1,3 +1,3 @@
 # cerin
 
-A simple erin node written in JavaScript. 
+A simple erin node written in JavaScript.

@@ -1,6 +1,6 @@
 {
   "name": "cerin",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "A simple erin node written in JavaScript.",
   "main": "src/index.js",
   "keywords": [
