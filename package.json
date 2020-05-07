@@ -11,7 +11,7 @@
     "p2p",
     "peer-to-peer"
   ],
-  "license": "GPL-3.0-or-later",
+  "license": "ICS",
   "scripts": {
     "start": "node scripts/start.js"
   },
